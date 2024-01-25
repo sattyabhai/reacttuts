@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Mint",
+            "title": "Stalin-led Tamil Nadu govt 'banned' Ayodhya Ram mandir live telecast: Sitharaman - Mint",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYS9tay1zdGFsaW4tbGVkLXRhbWlsLW5hZHUtZ292dC1iYW5uZWQtbGl2ZS10ZWxlY2FzdC1vZi1heW9kaHlhLXJhbS1tYW5kaXItY29uc2VjcmF0aW9uLWZtLW5pcm1hbGEtc2l0aGFyYW1hbi0xMTcwNTgzMTk3MjUyMS5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-21T12:42:59+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "TIM SULLIVAN",
+            "title": "In small-town Wisconsin, looking for the roots of the modern American conspiracy theory",
+            "description": "APPLETON, Wis. (AP) — The decades fall away as you open the front doors. It’s the late 1950s in the cramped little offices — or maybe the pre-hippie 1960s. It’s a place where army-style buzz cuts are still in fashion, communism remains the primary enemy and t…",
+            "url": "https://apnews.com/c3809b7ad45afc3bee5f9881b2d9aa36",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6354e2526d0345d3b8e9388519f26ab1/3000.jpeg",
+            "publishedAt": "2024-01-21T12:12:35Z",
+            "content": "APPLETON, Wis. (AP) — The decades fall away as you open the front doors. It’s the late 1950s in the cramped little offices — or maybe the pre-hippie 1960s. It’s a place where army-style buzz cuts are… [+8695 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Hindustan Times",
+            "title": "What will happen to old Ram Lalla? All you need to know about 4 idols - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy93aGF0LXdpbGwtaGFwcGVuLXRvLW9sZC1yYW0tbGFsbGEtYWxsLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtNC1pZG9scy1pbi1yYW0tdGVtcGxlLTEwMTcwNTgzNzA2NDMwMy5odG1s0gGVAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9pbmRpYS1uZXdzL3doYXQtd2lsbC1oYXBwZW4tdG8tb2xkLXJhbS1sYWxsYS1hbGwteW91LW5lZWQtdG8ta25vdy1hYm91dC00LWlkb2xzLWluLXJhbS10ZW1wbGUtMTAxNzA1ODM3MDY0MzAzLWFtcC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-21T11:46:36+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "NDTV",
+            "title": "AIIMS Reverses Decision On Half-Day For Ram Temple Event After Huge Backlash - NDTV",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvYWlpbXMtZGVsaGktcmV2ZXJzZXMtZGVjaXNpb24tdG8tc3RheS1zaHV0LXRpbGwtMi0zMC1wbS10b21vcnJvdy1mb3ItcmFtLXRlbXBsZS1ldmVudC00OTAzMTA30gGDAWh0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvYWlpbXMtZGVsaGktcmV2ZXJzZXMtZGVjaXNpb24tdG8tc3RheS1zaHV0LXRpbGwtMi0zMC1wbS10b21vcnJvdy1mb3ItcmFtLXRlbXBsZS1ldmVudC00OTAzMTA3L2FtcC8x?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-21T11:11:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Hindustan Times",
+            "title": "Akshay, Anupam, Pawan: 8 celebs who donated towards Ram Temple construction - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvYWtzaGF5LWt1bWFyLWFudXBhbS1raGVyLXBhd2FuLWthbHlhbi04LWNlbGVicy13aG8tZG9uYXRlZC10b3dhcmRzLWF5b2RoeWFzLXJhbS10ZW1wbGUtY29uc3RydWN0aW9uLTEwMTcwNTgyNjQ4MjUwNy5odG1s0gGzAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9lbnRlcnRhaW5tZW50L2JvbGx5d29vZC9ha3NoYXkta3VtYXItYW51cGFtLWtoZXItcGF3YW4ta2FseWFuLTgtY2VsZWJzLXdoby1kb25hdGVkLXRvd2FyZHMtYXlvZGh5YXMtcmFtLXRlbXBsZS1jb25zdHJ1Y3Rpb24tMTAxNzA1ODI2NDgyNTA3LWFtcC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-21T10:42:37+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Kay Nordenbrock",
+            "title": "Von Programmieren bis hin zu KI: Die Uni Helsinki bietet jetzt Gratis-Kurse",
+            "description": "Ihr wollt ohne teure Gebühren studieren? Dann lohnt ein Blick zur Universität Helsinki. Sie bietet Online-Kurs",
+            "url": "https://t3n.de/news/programmieren-bis-ki-universtaet-helsinki-gratis-kurse-1602116/",
+            "urlToImage": "https://t3n.de/news/wp-content/uploads/2024/01/university-of-helsinki.jpg",
+            "publishedAt": "2024-01-21T09:35:00Z",
+            "content": "Die Universität Helsinki hat eine neue Initiative gestartet: Sie bietet eine Vielzahl von kostenlosen Online-Kursen an, die von jedem Interessierten bequem von Zuhause aus absolviert werden können.\r\n… [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "The Wire",
+            "title": "Indian Civilisation Is Being Disrobed in the City of Ram - The Wire",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGhld2lyZS5pbi9yZWxpZ2lvbi9pbmRpYW4tY2l2aWxpc2F0aW9uLWlzLWJlaW5nLWRpc3JvYmVkLWluLXRoZS1jaXR5LW9mLXJhbdIBYmh0dHBzOi8vbS50aGV3aXJlLmluL2FydGljbGUvcmVsaWdpb24vaW5kaWFuLWNpdmlsaXNhdGlvbi1pcy1iZWluZy1kaXNyb2JlZC1pbi10aGUtY2l0eS1vZi1yYW0vYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-21T08:15:39+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "info-money",
+                "name": "InfoMoney"
+            },
+            "author": "Bloomberg",
+            "title": "A economia da China realmente cresceu 5,2% em 2023? Nem todos concordam",
+            "description": "Uma divergência gira em torno dos dados de investimento de Pequim, que mostram que os gastos em manufatura e infraestrutura superaram o impacto negativo do setor imobiliário. Outros discordam do dado sobre o crescimento econômico",
+            "url": "https://www.infomoney.com.br/economia/a-economia-da-china-realmente-cresceu-52-em-2023-nem-todos-concordam/",
+            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2022/08/GettyImages-183303963.jpg?fit=724%2C483&quality=70&strip=all",
+            "publishedAt": "2024-01-21T05:59:48Z",
+            "content": "Bloomberg Suspeitas de longa data sobre a precisão dos dados oficiais de crescimento do Produto Interno Bruto (PIB) da China impulsionaram um mercado de cálculos alternativos, que entrou em ação nest… [+6926 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Gurvinder Singh",
+            "title": "In India’s Ayodhya, the Ram temple means ‘land is costlier than gold’",
+            "description": "Land prices are skyrocketing with investors trying to cash in on the millions of people expected to visit the temple.",
+            "url": "https://www.aljazeera.com/economy/2024/1/21/in-indias-ayodhya-the-ram-temple-means-land-is-costlier-than-gold",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/01/A-hotel-being-construction-close-to-the-new-township-in-Ayodhya-1705607249.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-01-21T03:47:21Z",
+            "content": "Ayodhya, India: Ram Surat Verma regrets his decision to sell his land in 2019.\r\nA farmer in Takpura village in the Ayodhya district of the north Indian state of Uttar Pradesh, about 155km (96 miles) … [+9447 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": "Global News",
+            "title": "Trump appears to eye New Hampshire primary win despite legal drama, polls show - Global News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiC2x0MTczWE9IbDNNmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-21T03:00:35+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "McKay Coppins: Why you should consider attending one of Donald Trump's rallies",
+            "description": "Ever since Donald Trump lost the presidency, many American voters regard the twice impeached and 4-times indicted ex-president as background noise. They don't think Trump's ramblings carry the same weight as they did in 2016. But staff writer for The Atlantic…",
+            "url": "https://www.msnbc.com/jonathan-capehart/watch/mckay-coppins-why-you-should-consider-attending-one-of-donald-trump-s-rallies-202568261582",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2024_01/1705805033173_n_capehart_sat_trumprally_230120_1920x1080-2oz7ck.jpg",
+            "publishedAt": "2024-01-21T02:44:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "India Today",
+            "title": "Owaisi will soon chant ‘Ram Naam’: VHP reacts to Hyderabad MP's Ram Mandir remarks - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L3JhbS1tYW5kaXItYXlvZGh5YS10ZW1wbGUtYXNhZHVkZGluLW93YWlzaS12aHAtdmlzaHdhLWhpbmR1LXBhcmlzaGFkLWJhYnJpLW1hc2ppZC1yYW0tbmFhbS0yNDkxNDY1LTIwMjQtMDEtMjHSAZcBaHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9hbXAvaW5kaWEvc3RvcnkvcmFtLW1hbmRpci1heW9kaHlhLXRlbXBsZS1hc2FkdWRkaW4tb3dhaXNpLXZocC12aXNod2EtaGluZHUtcGFyaXNoYWQtYmFicmktbWFzamlkLXJhbS1uYWFtLTI0OTE0NjUtMjAyNC0wMS0yMQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-21T00:03:38+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Ahjané Forbes",
+            "title": "'Pawn Stars' reality TV star Rick Harrison's son Adam dies at 39 of reported overdose",
+            "description": "\"Pawn Stars\" star Rick Harrison pays tribute to late son, Adam, in an Instagram post. The 39-year-old reportedly died of an overdose.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/01/20/pawn-stars-rick-harrison-son-adam-dies/72297076007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/20/USAT/72297818007-ap-pawn-stars-son-death.jpg?crop=1499,844,x0,y78&width=1499&height=844&format=pjpg&auto=webp",
+            "publishedAt": "2024-01-20T22:42:12+00:00",
+            "content": "The son of \"Pawn Stars\" creator and star Rick Harrison has died, according to a tribute on his Instagram page posted on Friday.\r\nHarrison shared a photo of his son, Adam, 39, and himself at a restaur… [+755 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "ANI News",
+            "title": "‘Garuda Drone’ to ensure foolproof security as Ayodhya gears up for grand Ram Temple inauguration - ANI News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiC1RHeFJ3eHNzSEhBmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-20T16:08:01+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "blasting-news-br",
+                "name": "Blasting News (BR)"
+            },
+            "author": "Blasting News",
+            "title": "Arsenal busca quebrar sequência negativa contra o Crystal Palace",
+            "description": "Gunners acumularam uma série de tropeços no final do ano passado, que o afastou da liderança",
+            "url": "https://br.blastingnews.com/tv-famosos/2024/01/video/arsenal-busca-quebrar-sequencia-negativa-contra-o-crystal-palace-005691873.html",
+            "urlToImage": "https://mediavideo.blastingnews.com/p/4/2024/01/19/dc3777d1-cbef-499f-8bda-d4718335097c.jpg",
+            "publishedAt": "2024-01-20T12:41:50Z",
+            "content": "Utilizamos cookies e tecnologias de rastreamento semelhantes para fornecer um serviço personalizado com base em suas necessidades de navegação e para analisar nosso tráfego. Coletamos e compartilhamo… [+1856 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jim Resnick",
+            "title": "What happens when you trigger a car’s automated emergency stopping?",
+            "description": "Experiencing the sequence of events in a car programmed for automated emergency stopping.",
+            "url": "https://arstechnica.com/cars/2024/01/what-happens-when-you-trigger-a-cars-automated-emergency-stopping/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Resnick-Emergency-Stopping-1-760x380.png",
+            "publishedAt": "2024-01-20T10:00:15+00:00",
+            "content": "132\r\nMost car crashes begin and end in a few seconds. That's plenty of time to get in a tiny micro-nap while driving. The famous asleep-at-the-wheel film scene in National Lampoon's Vacation, where C… [+3574 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Morgan Sung",
+            "title": "Selkie founder defends use of AI in new dress collection amid backlash | TechCrunch",
+            "description": "When Selkie, the fashion brand viral on Instagram and TikTok for its frothy, extravagant dresses, announces new collections, reception is generally When Selkie, the Instagram and TikTok viral dress brand, announced that it had used generative AI to design its…",
+            "url": "https://techcrunch.com/2024/01/19/selkie-founder-defends-ai-collection-kimberley-gordon-valentines-day/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/HOME-IS-WHERE-THE-HEART-SELKIE-MAIN-39.jpg?resize=1200,800",
+            "publishedAt": "2024-01-19T23:21:53Z",
+            "content": "When Selkie, the fashion brand viral on Instagram and TikTok for its frothy, extravagant dresses, announces new collections, reception is generally positive. Known for its size inclusivity its sizing… [+8704 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Elizabeth Holmes barred from federal health programs for 90 years",
+            "description": "The former Theranos CEO is barred from receiving payments from federal health program.",
+            "url": "https://arstechnica.com/science/2024/01/convicted-fraudster-elizabeth-holmes-barred-from-federal-health-programs/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/05/Elizabeth_Holmes_2014_cropped-640x215.jpg",
+            "publishedAt": "2024-01-19T23:17:46+00:00",
+            "content": "Theranos CEO and founder Elizabeth Holmes. \r\n144\r\nElizabeth Holmesthe disgraced and incarcerated founder of the infamous blood-testing startup Theranosis barred from participating in federal health p… [+2280 chars]"
+        },
+        {
+            "source": {
+                "id": "blasting-news-br",
+                "name": "Blasting News (BR)"
+            },
+            "author": "curiosidade dos famosos",
+            "title": "5 famosos que parabenizaram Mel Lisboa por aniversário",
+            "description": "A atriz comemorou seus 42 anos nesta quarta-feira (17) e ganhou homenagens",
+            "url": "https://br.blastingnews.com/curiosidades/2024/01/5-famosos-que-parabenizaram-mel-lisboa-por-aniversario-003792513.html",
+            "urlToImage": "https://staticr1.blastingcdn.com/media/photogallery/2024/1/19/os/b_1200x630x82/mel-lisboa-faz-42-anos-reproducaoinstagram-at-mellisboa_3010727.jpg",
+            "publishedAt": "2024-01-19T21:15:56Z",
+            "content": "A atriz elogiou a amiga e celebrou o aniversário dela. (Reprodução/Instagram/@mellisboa)\r\nA atriz se declarou para a amiga e desejou o melhor desse mundo. (Reprodução/Instagram/@mellisboa)\r\nO ator Sé… [+74 chars]"
+        },
+        {
+            "source": {
+                "id": "info-money",
+                "name": "InfoMoney"
+            },
+            "author": "leonardogstos",
+            "title": "Na luta com a Bolsa, renda fixa sobrevive para mais um \"round\" em 2024, avaliam especialistas",
+            "description": "Estrategistas da XP, J.P. Morgan, Oaktree e Ark Invest mostraram aos investidores o que esperar da classe – aqui e lá fora – nos próximos meses",
+            "url": "https://www.infomoney.com.br/onde-investir/renda-fixa-perdeu-brilho-onde-investir-2024/",
+            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2023/12/GettyImages-1060923644-e1702505088497.jpg?fit=595%2C388&quality=70&strip=all",
+            "publishedAt": "2024-01-19T19:41:19Z",
+            "content": "A Selic está em queda e, lá fora, o S&amp;P 500 bate novo recorde. Mas, para especialistas, 2024 ainda terá muito espaço para investimento em renda fixa. Tudo depende dos juros dos Estados Unidos, de… [+3339 chars]"
+        }
+    ]
+}
