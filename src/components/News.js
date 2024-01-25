@@ -1,10 +1,25 @@
 import React, { Component } from 'react'
 import NewsItem from './NewsItem'
 import Loading from './Loading'
+import PropTypes from 'prop-types'
 
 export class News extends Component {
+
+    static defaultProps = {
+        country : 'in',
+        category : 'sports'
+      }
+
+      static propTypes = {
+        country: PropTypes.string.isRequired,
+        category : PropTypes.string
+      }
+
+      
     constructor(){
         super();
+      console.log(this.props);
+
         this.state = {
             articles: [],
             loading: false,
@@ -13,11 +28,20 @@ export class News extends Component {
     }
 
     async componentDidMount(){
-        let url = `https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=5eed93fe2f26482e94b6928d7b6e10f6&page=1&pagesize=${this.props.pagesize}`;
+      console.log(this.props.category);
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=5eed93fe2f26482e94b6928d7b6e10f6&page=1&pagesize=${this.props.pagesize}`;
         let data = await fetch(url);
         let parsedData = await data.json();
         this.setState({articles: parsedData.articles, totalResult: parsedData.totalResults})
+        console.log(url);
 
+    }
+
+    async componentDidUpdate() {
+      let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=5eed93fe2f26482e94b6928d7b6e10f6&page=1&pagesize=${this.props.pagesize}`;
+      let data = await fetch(url);
+      let parsedData = await data.json();
+      this.setState({articles: parsedData.articles, totalResult: parsedData.totalResults})
     }
 
     handleNextClick = async () => {
@@ -26,7 +50,7 @@ export class News extends Component {
                 loading: true,
             })
 
-            let url = `https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=5eed93fe2f26482e94b6928d7b6e10f6&page=${this.state.page + 1}&pagesize=${this.props.pagesize}`;
+            let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=5eed93fe2f26482e94b6928d7b6e10f6&page=${this.state.page + 1}&pagesize=${this.props.pagesize}`;
             let data = await fetch(url);
             let parsedData = await data.json();
             this.setState({
@@ -40,7 +64,7 @@ export class News extends Component {
 
     handlePrevClick = async () => {
 
-        let url = `https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=5eed93fe2f26482e94b6928d7b6e10f6&page=${this.state.page - 1}&pagesize=${this.props.pagesize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&ctegory=${this.props.category}&apiKey=5eed93fe2f26482e94b6928d7b6e10f6&page=${this.state.page - 1}&pagesize=${this.props.pagesize}`;
         let data = await fetch(url);
         let parsedData = await data.json();
          this.setState({
